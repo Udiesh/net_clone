@@ -853,6 +853,15 @@ a {
         height:7rem;
         width:7rem;
     }
+
+    input{
+        width:180px;
+    }
+
+    #get-st{
+        width:120px;
+        font-size: 15px;
+    }
     .centr-div{
         padding:40px;
     }
@@ -871,8 +880,17 @@ a {
         text-align: center;
 
     }
+    .img-tv{
+        height:380px;
+        width:380px;
+    }
+    }
     .second-box{
         flex-wrap:wrap-reverse;
+    }
+    .phone-img{
+        height:380px;
+        width:400px;
     }
     
     .second-text{
@@ -904,12 +922,17 @@ a {
     }
     
     .mac-img{
-        height:550px;
-        width:550px;
+        height:380px;
+        width:400px;
     }
     
     .fifth-box{
         flex-wrap:wrap-reverse;
+    }
+    
+    .child-img{
+        width:400px;
+        height:380px;
     }
     
     .fifth-text{
@@ -923,4 +946,13 @@ a {
     .q-p{
         margin:0 50px 0 50px;
     }
+
+    .div-all{
+        display: flex;
+        flex-direction: column;
     }
+
+    #sub-text{
+        font-size: 18px;
+    }
+    
