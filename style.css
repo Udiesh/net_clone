@@ -956,14 +956,5 @@ a {
         font-size: 18px;
     }
 
-@media only screen and (min-width: 830px) 
-    {
-        .div-all{
-            flex-direction: row;
-        }
 
-        .q-p{
-            margin: 0 180px 0 180px;
-        }
-    }
 
